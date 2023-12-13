@@ -1,0 +1,25 @@
+/**********************************************
+*** © Linguagens Script > DEIS > ISEC > IPC 
+*** Jogo de Memória em React
+*** Estilos para game-over-modal.component.jsx 
+**********************************************/
+
+#gameOver {
+    font-family:'Rockwell';
+    background-color: #DBDFFD;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    color: black;
+    width: 92%;
+    height: max-content;
+    margin-left:50px;
+    margin-top: 25px ;
+    padding: 5px 20px 10px 20px;
+    border: 3px solid var(--globalColor);
+  
+  
+}
+
+#hidden{
+  visibility: hidden;
+}
