@@ -11,7 +11,7 @@ The project was developed by the following team:
 - Maria Carrilho
 
 ## Screenshot
-![Game Interface](![image](https://github.com/inclyner/ls-sopa-de-letras/assets/84443911/432c9bae-343a-4453-8f5b-0c8f3877993d))
+![image](https://github.com/inclyner/ls-sopa-de-letras/assets/84443911/432c9bae-343a-4453-8f5b-0c8f3877993d)
 
 ## Components
 The implemented game is accessible via a web browser and provides at least the following features:
